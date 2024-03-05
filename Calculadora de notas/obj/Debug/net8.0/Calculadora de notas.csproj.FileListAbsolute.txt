@@ -1,0 +1,14 @@
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\bin\Debug\net8.0\Calculadora de notas.exe
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\bin\Debug\net8.0\Calculadora de notas.deps.json
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\bin\Debug\net8.0\Calculadora de notas.runtimeconfig.json
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\bin\Debug\net8.0\Calculadora de notas.dll
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\bin\Debug\net8.0\Calculadora de notas.pdb
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.AssemblyInfo.cs
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.dll
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\refint\Calculadora de notas.dll
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.pdb
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\Calculadora de notas.genruntimeconfig.cache
+C:\Users\Julian\source\repos\Calculadora de notas\Calculadora de notas\obj\Debug\net8.0\ref\Calculadora de notas.dll
